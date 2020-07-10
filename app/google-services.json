@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72482355875",
+    "firebase_url": "https://dadra-and-nagar-haveli-5af70.firebaseio.com",
+    "project_id": "dadra-and-nagar-haveli-5af70",
+    "storage_bucket": "dadra-and-nagar-haveli-5af70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72482355875:android:d4f162db5b08a7756a1d16",
+        "android_client_info": {
+          "package_name": "com.covid19.dadraandnagarhaveli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72482355875-aovtgh9s944tvej9m3vj63ja4gpimckd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrw4WpnKbq87jsPoXpGfiQi2uYbs3rvlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72482355875-aovtgh9s944tvej9m3vj63ja4gpimckd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
